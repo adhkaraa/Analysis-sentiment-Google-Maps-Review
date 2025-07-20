@@ -2,7 +2,6 @@
 
 This project analyzes and visualizes user reviews of **Sultan Aji Muhammad Sulaiman Sepinggan Airport** (Balikpapan) collected from **Google Maps** during the period **2023–2024**. The goal is to classify public sentiment and uncover key insights into passenger perceptions and experiences at the airport.
 
----
 
 ## 📁 Repository Contents
 
@@ -15,7 +14,6 @@ This project analyzes and visualizes user reviews of **Sultan Aji Muhammad Sulai
 - `infografis.png`  
   A visual summary of the key findings from the sentiment analysis, designed for presentation or publication use.
 
----
 
 ## 🔍 Objectives
 
@@ -24,14 +22,12 @@ This project analyzes and visualizes user reviews of **Sultan Aji Muhammad Sulai
 - Visualize the distribution of sentiment over time.
 - Summarize passenger concerns, praises, or complaints.
 
----
 
 ## 📊 Key Methods
 
 - **Text Preprocessing:** Lowercasing, stopword removal, stemming.
 - **Visualization:** Bar plots, word clouds, and time-series sentiment tracking.
 
----
 
 ## 🛠️ Tools Used
 
@@ -39,9 +35,6 @@ This project analyzes and visualizes user reviews of **Sultan Aji Muhammad Sulai
 - **Google Maps Reviews** (scraped)
 - **Canva / Illustrator** (for infographic design)
 
----
-
-## 📄 License
 
 You can add a license here (e.g., MIT) to allow public reuse or adaptation.
 
