@@ -35,9 +35,4 @@ This project analyzes and visualizes user reviews of **Sultan Aji Muhammad Sulai
 - **Google Maps Reviews** (scraped)
 - **Canva / Illustrator** (for infographic design)
 
-
-You can add a license here (e.g., MIT) to allow public reuse or adaptation.
-
----
-
 📌 *This project is intended for educational and analytical purposes.*
